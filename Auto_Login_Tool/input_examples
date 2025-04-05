@@ -1,0 +1,6 @@
+auto_login_tool/                   # 主项目文件夹
+├── main.py                         # 主程序代码
+├── requirements.txt                # 依赖文件
+├── README.md                       # 项目说明文档
+├── config.ini                      # 配置文件，存储登录信息等
+└── input_examples/                 # 输入示例目录（可选）
